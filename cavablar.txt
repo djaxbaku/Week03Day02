@@ -1,0 +1,13 @@
+1.1.reset.css kod yazmanin asanlasmasi ucun .
+  2.sayti yazmaga baslamamsi evvel body de umami diver verin.Meselen header, footer.
+  3.bir kodun propertylerini bir setrde yazmaq yazmaq (padding)
+  4.her kodu ayri setirde yazmaq.
+  5.commentlerden istifade etmek ki, uzun muddetden sonra koda baxanda her sey basa dusulsun
+ 6.kodlari alfafit siralamasinda yazmaq.
+ 7.maksimal derecede kid tekrarciliqina yol vermemek.
+8.lessden ve ya ssas dan istifade kod yazmaq vaxtini asaldar 
+9.color picker den emet den istifade etmek. umumiyyetle elimizde kod yazmani asanlasdiran ne varsa her seyden istifade etmek, но в разумных мерах.
+10.klasslarin acini second diqqetli olmaq lazimdir ki sonra casmiyasan
+2. Beli, var. Meselen fontello(pulse) ve ya pictos (pullu). Esinde, hamisinin funksiyasi eynidir, sadece olaraq icon-larin gorunushu bashqa cur ola biler.Ancaq Fontelloda ozun oz fontunu yigada bilersen.
+3. Desire,joker man,karikatur,komika,museo,opus,nova, pista,president.
+Mende max OS oldugu ucun, cox asandi.Sadece olaraq fontu off formatinda endirirsen ve  siete ozu fontu oz font kitabxanasina leave edir.
